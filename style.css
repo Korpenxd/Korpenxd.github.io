@@ -72,3 +72,7 @@ footer h3 {
 .left {
   width: 150px;
 }
+
+#schedule_title {
+  background-color: white;
+}
